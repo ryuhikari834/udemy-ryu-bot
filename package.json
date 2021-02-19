@@ -1,0 +1,17 @@
+{
+  "name": "udemy-ryu-bot",
+  "version": "1.0.0",
+  "description": "bot para buscar cursos de udemy de 3 estrellas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryu Hikari 834",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "telegraf": "^3.38.0"
+  }
+}
